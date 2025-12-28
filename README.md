@@ -1,5 +1,4 @@
-A second year student studying Computer Science at the University of Bath. I'm currently learning Python and Java, and soon will be covering other languages in the coming year. I'm interested in software development and project management, and hope to pursue a career in tech after graduation. Here you'll find some of the courseworks I coded as part of my university learning.
-I can be reached via email: kishenpatel2002@gmail.com
+A First-Class Computer Science graduate from the University of Bath, he enjoys building end-to-end analytics solutions (from Python-powered ML models to executive dashboards) that analyse problems and solve them. Where others see data points, Kishen sees insights. He codes, he leads, he delivers. https://www.datascienceportfol.io/kishenpatel2002
 
 
 <!---
